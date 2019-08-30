@@ -1,6 +1,6 @@
 # TpBroadcastReceiver
 
-Tp1 Aplicaciones mòviles
+Android TP1
 
 Consigna para la actividad a desarrollar:
 
